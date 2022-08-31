@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mehmoodazhar
-- 👀 I’m interested in Learning New Front-End Technologies 
-- 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on Front End Projects
+- 👋 Hi, I’m Azhar Mahmood
+- 👀 I’m interested in Learning Python  
+- 🌱 I’m currently learning Python and it's different type of modules 
 - 📫 How to reach me ...
 - My Personal Email: Mehmoodazhar712@gmail.com
 
